@@ -1,0 +1,4 @@
+.eunit
+.rebar3/
+*.plt
+erl_crash.dump
